@@ -1,5 +1,5 @@
 # Documentacion
-<font size="2000">
+<font size="35">
 <b>Inventario carro bomba</b>
   </font>
 
