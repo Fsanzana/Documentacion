@@ -1,3 +1,3 @@
 # Documentacion
-Inventario carro bomba
+<n>Inventario carro bomba</n>
 
