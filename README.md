@@ -1,9 +1,9 @@
 # Documentacion
 
 
-<h2><b>Inventario carro bomba</b></h2>
+<h1><b>Inventario carro bomba</b></h1>
  
 
-<h1>objetivos</h1>
+<h2>objetivos</h2>
 
 
