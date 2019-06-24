@@ -1,3 +1,3 @@
 # Documentacion
-<font size=20><b>Inventario carro bomba</b>
+<font size=2000><b>Inventario carro bomba</b>
 
