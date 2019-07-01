@@ -1,12 +1,19 @@
 # Documentacion
 
 
-<h1><b>Inventario carro bomba</b></h1>
-Creado por Alejandro Acuña, Arturo Gutierrez y Felipe Sanzana
+## Inventario carro bomba. ##
 
-<h2>Objetivos</h2>
+###### Creado por Alejandro Acuña, Arturo Gutiérrez y Felipe Sanzana ######
 
-Este proyecto esta destinado al cuerpo de bomberos de Temuco, para ayudar a organizar todos los implementos que poseen los carros bomba y 
-todos sus accesorios e implementos.
+## Objetivos ##
+
+Este proyecto esta destinado al cuerpo de bomberos de Temuco, para tener un registro y control de los implementos a utilizar en el carro.
+
+## Descripción ##
+
+Esta plataforma web genera un listado de los implementos de los carros actualizado.
+
+## Uso ##
+
 
 
