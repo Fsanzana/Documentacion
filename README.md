@@ -15,11 +15,10 @@ Esta plataforma web genera un listado de los implementos de los carros actualiza
 
 ## Uso ##
 
-Se agrega un carro, despues de ya agregado se le asignan sus 4 gavetas correspondientes para luego asignar los implementos a cada gaveta.
+Se agrega un carro en la pestaña "Carros Decima", luego se elige en donde se quiere agregar el implemento en "Cabina" o "Techo", luego de ya elegido el lugar se agrega un implemento y se le asigna un carro.
 
 ## Ejemplo ##
 
-Se agrega un carro llamado "carro_1", luegos se le asignan 4 gavetas. Ahora se comienzan a agregar los implementos, por ejemplo un "halligan" (herramienta que consiste en una garra, una hoja y un pico).
-
+En la pestaña "Carros Decima" se agrega un carro llamado "B-10" , luego se elige en donde se quiere agregar un implemento, en este caso sera en "Cabina". En esa pestaña se agrega el implemento como "Hacha" y se le asigna un carro, en este caso "B-10".
 
 
