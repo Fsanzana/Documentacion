@@ -1,4 +1,4 @@
-# Documentacion #
+# Documentación #
 
 
 ## Inventario carro bomba. ##
@@ -11,7 +11,7 @@ Este proyecto esta destinado para la decima compañia de bomberos Temuco, para t
 
 ## Descripción ##
 
-Esta plataforma web genera un listado de los implementos de los carros actualizado.
+Esta plataforma web mantiene un registro los implementos de los carros.
 
 ## Uso ##
 
